@@ -4,6 +4,11 @@ If you've ever handled data operations in Python, you’ve likely used the panda
 
 Is it genuinely that fast, and is it worth switching from pandas, which has become muscle memory for us and is almost synonymous with data manipulation in Python?
 
+I ran some tests and here are the results from those tests.
+
+Spoiler Alert!! Polars beat Python Fair and Square!
+
+
 | Operation                | Pandas                      | Polars                      |
 |--------------------------|------------------------------|-----------------------------|
 | **Reading Data**         | 461 ms ± 78.2 ms             | 208 ms ± 56.1 ms            |
@@ -15,4 +20,6 @@ Is it genuinely that fast, and is it worth switching from pandas, which has beco
 | **Changing Data Types**  | 1.48 ms ± 124 µs             | 46.1 µs ± 12.7 µs           |
 | **Sorting**              | 317 ms ± 53.9 ms             | 388 ms ± 57.1 ms            |
 
+
+But the important question is how? To learn more, read my blog [Pandas v.s. Polars - A Data Workflow Showdown](https://sakhujayashofficia.wixsite.com/yashsakhuja/post/pandas-v-s-polars-a-data-workflow-showdown) where I explain how it achieves that and also answer an intriguing question why being **LAZY** is good for your code?
 
