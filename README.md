@@ -21,5 +21,5 @@ Spoiler Alert!! Polars beat Python Fair and Square!
 | **Sorting**              | 317 ms ± 53.9 ms             | 388 ms ± 57.1 ms            |
 
 
-But the important question is how? To learn more, read my blog [Pandas v.s. Polars - A Data Workflow Showdown](https://sakhujayashofficia.wixsite.com/yashsakhuja/post/pandas-v-s-polars-a-data-workflow-showdown) where I explain how it achieves that and also answer an intriguing question why being **LAZY** is good for your code?
+But the important question is how? To learn more, read my blog [Pandas v.s. Polars - A Data Workflow Showdown](https://sakhujayashofficia.wixsite.com/yashsakhuja/post/pandas-v-s-polars-a-data-workflow-showdown) where I explain how it achieves that and also answer an intriguing question - Why does being **LAZY** is good for your code?
 
