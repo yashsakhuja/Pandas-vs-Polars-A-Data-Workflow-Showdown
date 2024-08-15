@@ -1,4 +1,4 @@
-# 🐼Pandas vs 🐻‍❄️Polars: A Data Workflow Showdown
+# 🐼 Pandas vs 🐻‍❄️ Polars: A Data Workflow Showdown
 
 If you've ever handled data operations in Python, you’ve likely used the pandas package for your data manipulation needs. Whether it's reading data, storing it in convenient DataFrames, or performing various data exploration tasks, pandas has been a key tool in all your data projects. However, have you heard of Polars? It can handle almost everything that pandas does, but it’s designed to be significantly faster and more optimised. This can save you a lot of time, especially when working with large datasets.
 
